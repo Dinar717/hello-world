@@ -1,2 +1,2 @@
 # hello-world
-tesing how to use repository
+I am Mustafijur Rahman. From Bangladesh. This is my first repository. 
